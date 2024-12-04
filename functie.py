@@ -1,0 +1,1 @@
+# in dit bestand gaan we een tal functies schrijven die vanuit de terminal gerund kunnen worden 
